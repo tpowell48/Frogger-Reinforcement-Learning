@@ -20,6 +20,7 @@ The **Frogger** project focuses on developing and evaluating systems in a Frogge
 1. **Requirements**
    - Python 3.7+
    - Libraries: OpenAI Gym, ALE, NumPy, Matplotlib.
+   - FFMPEG for RecordingWrapper
 
 2. **Execution**
    - Open the `Frogger.ipynb` notebook in Jupyter.
@@ -51,6 +52,7 @@ The **DeepFrogger** project involves applying deep reinforcement learning techni
 1. **Requirements**
    - Python 3.7+
    - Libraries: OpenAI Gym, ALE, PyTorch, NumPy, Matplotlib
+   - FFMPEG for RecordingWrapper
    - Additional dependencies as listed in the notebook.
 
 2. **Execution**
